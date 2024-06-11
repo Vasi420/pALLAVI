@@ -1,5 +1,5 @@
 {
-    "name": "Thava X Music [V2]",
+    "name": "RKxMusicbot",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://telegra.ph/file/bfbb263bade7eb110e8aa.jpg",
     "keywords": [
@@ -69,7 +69,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/Thava-OX/ThavaXMusic",
+        "value": "https://github.com/Vasi420/pALLAVI",
         "required": true
       },
       "UPSTREAM_BRANCH": {
